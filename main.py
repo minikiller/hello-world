@@ -7,8 +7,6 @@ data = res.json()
 
 for user in data["results"]:
     print(user["name"]["first"])
+ 
 
-
-
-sdsd
 
